@@ -11,6 +11,7 @@ import com.example.textdemo.Model.toDoModel;
 import java.util.ArrayList;
 import java.util.List;
 
+//created by Thanusha Deemantha
 public class DatabaseHandler extends SQLiteOpenHelper {
 
     private static  final int VERSION=1;

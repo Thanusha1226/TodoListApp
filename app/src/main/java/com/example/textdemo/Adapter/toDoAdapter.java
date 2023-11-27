@@ -21,6 +21,7 @@ import com.example.textdemo.Utils.DatabaseHandler;
 
 import java.util.List;
 
+//created by Thanusha Deemantha
 public class toDoAdapter extends RecyclerView.Adapter<toDoAdapter.ViewHolder> {
     private List<toDoModel> toDoModelList;
     private MainActivity activity;
